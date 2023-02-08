@@ -1,0 +1,16 @@
+#navigasyon, #nvg{
+width: 100%;
+background-color: aqua;
+}
+table{
+    border: none;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+#nvg{
+    font-size: x-large;
+    font-weight: 100;
+}
